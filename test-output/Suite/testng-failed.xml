@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="browser" value="firefox"/>
+  <test name="FirefoxTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="HomePageChecker.HomePage">
+        <methods>
+          <include name="BeforeClass"/>
+          <include name="VerifySchoolOfDragonBrandSelector"/>
+          <include name="OpenHomePage"/>
+          <include name="AfterClass"/>
+        </methods>
+      </class> <!-- HomePageChecker.HomePage -->
+      <class name="HomePageChecker.SchoolOfDragonsSignUpPage">
+        <methods>
+          <include name="PerformSignUpJourneyAfterAgeSelection"/>
+          <include name="ValidateSignUpPageFields2"/>
+          <include name="VerifySignedInAfterSignedOut"/>
+          <include name="VerifySignedInAfterCreation"/>
+          <include name="CreateNewUserID"/>
+          <include name="VerifySignUpPage"/>
+          <include name="ValidateSignUpPageFields"/>
+          <include name="ClickOnSignUpButton"/>
+          <include name="VerifyUnityPlayerDisplayedAfterOK"/>
+          <include name="VerifySignedOut"/>
+          <include name="PerformSignUpJourneyAgeSelection"/>
+        </methods>
+      </class> <!-- HomePageChecker.SchoolOfDragonsSignUpPage -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

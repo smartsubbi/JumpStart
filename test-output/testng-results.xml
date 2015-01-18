@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="15" passed="15">
+  <reporter-output>
+    <line>
+      <![CDATA[Total Elements Present : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[OpenHomePage Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 3]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 3]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[VerifySchoolOfDragonBrandSelector Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 7]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 7]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[ClickOnSchoolOfDragonBrand Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 9]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 9]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[ClickOnLoginButton Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 2]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 2]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[ClickOnSignUpButton Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 6]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 6]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[ClickOnSignUpButton Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 2]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 2]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[PerformSignUpJourneyAgeSelection Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 15]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 15]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[PerformSignUpJourneyAfterAgeSelection Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 8]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 8]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[ValidateSignUpPageFields Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 6]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 6]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[ValidateSignUpPageFields2 Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 8]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 8]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[CreateNewUserID Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 2]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 2]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[VerifySignedInAfterCreation Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 2]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 2]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[VerifySignedOut Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 10]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 10]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[VerifySignedInAfterSignedOut Method has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Present : 2]]>
+    </line>
+    <line>
+      <![CDATA[Total Elements Visible : 2]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Texts : 0]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified URLS : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Verified Titles : 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Errors : 0]]>
+    </line>
+    <line>
+      <![CDATA[VerifyUnityPlayerDisplayedAfterOK Method has Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="692978" started-at="2015-01-17T14:36:00Z" finished-at="2015-01-17T14:47:33Z">
+    <groups>
+      <group name="HomePage">
+        <method signature="HomePage.OpenHomePage()[pri:0, instance:HomePageChecker.HomePage@5f2050f6]" name="OpenHomePage" class="HomePageChecker.HomePage"/>
+        <method signature="HomePage.VerifySchoolOfDragonBrandSelector()[pri:0, instance:HomePageChecker.HomePage@5f2050f6]" name="VerifySchoolOfDragonBrandSelector" class="HomePageChecker.HomePage"/>
+      </group> <!-- HomePage -->
+      <group name="SchoolOfDragonsPage">
+        <method signature="SchoolOfDragonsPage.ClickOnSchoolOfDragonBrand()[pri:0, instance:HomePageChecker.SchoolOfDragonsPage@90f6bfd]" name="ClickOnSchoolOfDragonBrand" class="HomePageChecker.SchoolOfDragonsPage"/>
+      </group> <!-- SchoolOfDragonsPage -->
+      <group name="SchoolOfDragonsSignUpPage">
+        <method signature="SchoolOfDragonsSignUpPage.ClickOnSignUpButton()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="ClickOnSignUpButton" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+        <method signature="SchoolOfDragonsSignUpPage.VerifySignUpPage()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="VerifySignUpPage" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+        <method signature="SchoolOfDragonsSignUpPage.PerformSignUpJourneyAgeSelection()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="PerformSignUpJourneyAgeSelection" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+        <method signature="SchoolOfDragonsSignUpPage.PerformSignUpJourneyAfterAgeSelection()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="PerformSignUpJourneyAfterAgeSelection" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+        <method signature="SchoolOfDragonsSignUpPage.ValidateSignUpPageFields()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="ValidateSignUpPageFields" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+        <method signature="SchoolOfDragonsSignUpPage.ValidateSignUpPageFields2()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="ValidateSignUpPageFields2" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+        <method signature="SchoolOfDragonsSignUpPage.CreateNewUserID()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="CreateNewUserID" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+        <method signature="SchoolOfDragonsSignUpPage.VerifySignedInAfterCreation()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="VerifySignedInAfterCreation" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+        <method signature="SchoolOfDragonsSignUpPage.VerifySignedOut()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="VerifySignedOut" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+        <method signature="SchoolOfDragonsSignUpPage.VerifySignedInAfterSignedOut()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="VerifySignedInAfterSignedOut" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+        <method signature="SchoolOfDragonsSignUpPage.VerifyUnityPlayerDisplayedAfterOK()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="VerifyUnityPlayerDisplayedAfterOK" class="HomePageChecker.SchoolOfDragonsSignUpPage"/>
+      </group> <!-- SchoolOfDragonsSignUpPage -->
+      <group name="SchoolOfDragonsLoginPage">
+        <method signature="SchoolOfDragonsLoginPage.ClickOnLoginButton()[pri:0, instance:HomePageChecker.SchoolOfDragonsLoginPage@77b52d12]" name="ClickOnLoginButton" class="HomePageChecker.SchoolOfDragonsLoginPage"/>
+      </group> <!-- SchoolOfDragonsLoginPage -->
+    </groups>
+    <test name="FirefoxTest" duration-ms="692978" started-at="2015-01-17T14:36:00Z" finished-at="2015-01-17T14:47:33Z">
+      <class name="HomePageChecker.SchoolOfDragonsSignUpPage">
+        <test-method status="PASS" signature="ClickOnSignUpButton()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="ClickOnSignUpButton" duration-ms="12398" depends-on-groups="HomePage" started-at="2015-01-17T20:14:46Z" finished-at="2015-01-17T20:14:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 2]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 2]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[ClickOnSignUpButton Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnSignUpButton -->
+        <test-method status="PASS" signature="VerifySignUpPage()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="VerifySignUpPage" duration-ms="3212" depends-on-groups="HomePage" started-at="2015-01-17T20:14:58Z" depends-on-methods="HomePageChecker.SchoolOfDragonsSignUpPage.ClickOnSignUpButton" finished-at="2015-01-17T20:15:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 6]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 6]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[ClickOnSignUpButton Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifySignUpPage -->
+        <test-method status="PASS" signature="PerformSignUpJourneyAgeSelection()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="PerformSignUpJourneyAgeSelection" duration-ms="14089" depends-on-groups="HomePage" started-at="2015-01-17T20:15:01Z" depends-on-methods="HomePageChecker.SchoolOfDragonsSignUpPage.VerifySignUpPage" finished-at="2015-01-17T20:15:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 2]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 2]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[PerformSignUpJourneyAgeSelection Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PerformSignUpJourneyAgeSelection -->
+        <test-method status="PASS" signature="PerformSignUpJourneyAfterAgeSelection()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="PerformSignUpJourneyAfterAgeSelection" duration-ms="17622" depends-on-groups="HomePage" started-at="2015-01-17T20:15:15Z" depends-on-methods="HomePageChecker.SchoolOfDragonsSignUpPage.PerformSignUpJourneyAgeSelection" finished-at="2015-01-17T20:15:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 15]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 15]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[PerformSignUpJourneyAfterAgeSelection Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PerformSignUpJourneyAfterAgeSelection -->
+        <test-method status="PASS" signature="ValidateSignUpPageFields()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="ValidateSignUpPageFields" duration-ms="7934" depends-on-groups="HomePage" started-at="2015-01-17T20:15:33Z" depends-on-methods="HomePageChecker.SchoolOfDragonsSignUpPage.PerformSignUpJourneyAfterAgeSelection" finished-at="2015-01-17T20:15:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 8]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 8]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[ValidateSignUpPageFields Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateSignUpPageFields -->
+        <test-method status="PASS" signature="ValidateSignUpPageFields2()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="ValidateSignUpPageFields2" duration-ms="7027" depends-on-groups="HomePage" started-at="2015-01-17T20:15:41Z" depends-on-methods="HomePageChecker.SchoolOfDragonsSignUpPage.ValidateSignUpPageFields" finished-at="2015-01-17T20:15:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 6]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 6]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[ValidateSignUpPageFields2 Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateSignUpPageFields2 -->
+        <test-method status="PASS" signature="CreateNewUserID()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="CreateNewUserID" duration-ms="63891" depends-on-groups="HomePage" started-at="2015-01-17T20:15:48Z" depends-on-methods="HomePageChecker.SchoolOfDragonsSignUpPage.ValidateSignUpPageFields2" finished-at="2015-01-17T20:16:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 8]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 8]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[CreateNewUserID Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateNewUserID -->
+        <test-method status="PASS" signature="VerifySignedInAfterCreation()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="VerifySignedInAfterCreation" duration-ms="12981" depends-on-groups="HomePage" started-at="2015-01-17T20:16:52Z" depends-on-methods="HomePageChecker.SchoolOfDragonsSignUpPage.CreateNewUserID" finished-at="2015-01-17T20:17:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 2]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 2]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[VerifySignedInAfterCreation Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifySignedInAfterCreation -->
+        <test-method status="PASS" signature="VerifySignedOut()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="VerifySignedOut" duration-ms="3608" depends-on-groups="HomePage" started-at="2015-01-17T20:17:05Z" depends-on-methods="HomePageChecker.SchoolOfDragonsSignUpPage.VerifySignedInAfterCreation" finished-at="2015-01-17T20:17:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 2]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 2]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[VerifySignedOut Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifySignedOut -->
+        <test-method status="PASS" signature="VerifySignedInAfterSignedOut()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="VerifySignedInAfterSignedOut" duration-ms="14923" depends-on-groups="HomePage" started-at="2015-01-17T20:17:08Z" depends-on-methods="HomePageChecker.SchoolOfDragonsSignUpPage.VerifySignedOut" finished-at="2015-01-17T20:17:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 10]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 10]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[VerifySignedInAfterSignedOut Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifySignedInAfterSignedOut -->
+        <test-method status="PASS" signature="VerifyUnityPlayerDisplayedAfterOK()[pri:0, instance:HomePageChecker.SchoolOfDragonsSignUpPage@4157f54e]" name="VerifyUnityPlayerDisplayedAfterOK" duration-ms="5609" depends-on-groups="HomePage" started-at="2015-01-17T20:17:23Z" depends-on-methods="HomePageChecker.SchoolOfDragonsSignUpPage.VerifySignedInAfterSignedOut" finished-at="2015-01-17T20:17:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 2]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 2]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[VerifyUnityPlayerDisplayedAfterOK Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyUnityPlayerDisplayedAfterOK -->
+      </class> <!-- HomePageChecker.SchoolOfDragonsSignUpPage -->
+      <class name="HomePageChecker.SchoolOfDragonsLoginPage">
+        <test-method status="PASS" signature="ClickOnLoginButton()[pri:0, instance:HomePageChecker.SchoolOfDragonsLoginPage@77b52d12]" name="ClickOnLoginButton" duration-ms="138495" depends-on-groups="HomePage" started-at="2015-01-17T20:12:27Z" finished-at="2015-01-17T20:14:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 9]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 9]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[ClickOnLoginButton Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnLoginButton -->
+      </class> <!-- HomePageChecker.SchoolOfDragonsLoginPage -->
+      <class name="HomePageChecker.SchoolOfDragonsPage">
+        <test-method status="PASS" signature="ClickOnSchoolOfDragonBrand()[pri:0, instance:HomePageChecker.SchoolOfDragonsPage@90f6bfd]" name="ClickOnSchoolOfDragonBrand" duration-ms="236949" depends-on-groups="HomePage" started-at="2015-01-17T20:08:30Z" finished-at="2015-01-17T20:12:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 7]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 7]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[ClickOnSchoolOfDragonBrand Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnSchoolOfDragonBrand -->
+      </class> <!-- HomePageChecker.SchoolOfDragonsPage -->
+      <class name="HomePageChecker.HomePage">
+        <test-method status="PASS" signature="BeforeClass(java.lang.String)[pri:0, instance:HomePageChecker.HomePage@5f2050f6]" name="BeforeClass" is-config="true" duration-ms="6955" started-at="2015-01-17T20:06:00Z" finished-at="2015-01-17T20:06:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="OpenHomePage()[pri:0, instance:HomePageChecker.HomePage@5f2050f6]" name="OpenHomePage" duration-ms="143049" started-at="2015-01-17T20:06:07Z" finished-at="2015-01-17T20:08:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 1]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[OpenHomePage Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenHomePage -->
+        <test-method status="PASS" signature="VerifySchoolOfDragonBrandSelector()[pri:0, instance:HomePageChecker.HomePage@5f2050f6]" name="VerifySchoolOfDragonBrandSelector" duration-ms="95" started-at="2015-01-17T20:08:30Z" depends-on-methods="HomePageChecker.HomePage.OpenHomePage" finished-at="2015-01-17T20:08:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total Elements Present : 3]]>
+            </line>
+            <line>
+              <![CDATA[Total Elements Visible : 3]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Texts : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified URLS : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Verified Titles : 0]]>
+            </line>
+            <line>
+              <![CDATA[Total Errors : 0]]>
+            </line>
+            <line>
+              <![CDATA[VerifySchoolOfDragonBrandSelector Method has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifySchoolOfDragonBrandSelector -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:HomePageChecker.HomePage@5f2050f6]" name="AfterClass" is-config="true" duration-ms="4122" started-at="2015-01-17T20:17:29Z" finished-at="2015-01-17T20:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- HomePageChecker.HomePage -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>

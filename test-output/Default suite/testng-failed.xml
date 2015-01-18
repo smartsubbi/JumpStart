@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="HomePageChecker.HomePage">
+        <methods>
+          <include name="PerformSignUpJourneyAgeSelection"/>
+          <include name="VerifySignedOut"/>
+          <include name="ClickOnSignUpButton"/>
+          <include name="VerifyUnityPlayerDisplayedAfterOK"/>
+          <include name="VerifySignUpPage"/>
+          <include name="ValidateSignUpPageFields2"/>
+          <include name="VerifySignedInAfterSignedOut"/>
+          <include name="PerformSignUpJourneyAfterAgeSelection"/>
+          <include name="VerifyActivateAccountPage"/>
+          <include name="ClickOnSchoolOfDragonBrand"/>
+          <include name="VerifySchoolOfDragonBrandSelector"/>
+          <include name="ClickOnLoginButton"/>
+          <include name="OpenHomePage"/>
+          <include name="ValidateSignUpPageFields"/>
+          <include name="CreateNewUserID"/>
+          <include name="VerifySignedInAfterCreation"/>
+          <include name="VerifyAuthorisationMailrecieved"/>
+        </methods>
+      </class> <!-- HomePageChecker.HomePage -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
